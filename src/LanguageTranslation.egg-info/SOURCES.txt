@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/LanguageTranslation.egg-info/PKG-INFO
+src/LanguageTranslation.egg-info/SOURCES.txt
+src/LanguageTranslation.egg-info/dependency_links.txt
+src/LanguageTranslation.egg-info/top_level.txt
