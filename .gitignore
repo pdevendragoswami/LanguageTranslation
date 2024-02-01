@@ -160,4 +160,8 @@ cython_debug/
 #.idea/
 
 artifacts/
-research/
+research/test/
+research/tf_model/
+research/train/
+research/validation/
+research/dataset_dict.json
